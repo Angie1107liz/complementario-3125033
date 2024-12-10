@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/emreksz/software-engineer-jobs-and-salaries-2024/data
+
+HIPOTESIS
+Gracias a la encuestas tenemos como conclusion que la compañia ViewSoft tiene los mejores salarios $68K - $94K a comparacion de otras compañias que su salario
+que sus precios son de 61K hasta los 288K.

@@ -1,0 +1,6 @@
+https://survey.stackoverflow.co/2024/technology#most-popular-technologies-webframe
+
+HIPOTESIS 
+Node.js alcanzó su punto máximo en 2020 con su puntuación de uso más alta registrada del 51 %. Si bien no es tan popular, 
+sigue siendo la tecnología web más utilizada en la encuesta de este año y  ha aumentado su popularidad entre quienes están 
+aprendiendo a codificar desde el año pasado.

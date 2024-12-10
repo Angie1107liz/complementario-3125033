@@ -1,0 +1,4 @@
+https://survey.stackoverflow.co/2024/technology#most-popular-technologies-embedded
+
+HIPOTESIS
+Las tecnologías integradas son una nueva subsección de la encuesta para desarrolladores de este año. El 30% de los desarrolladores utilizan Raspberry Pi, lo que la convierte en la primera tecnología integrada más popular en la encuesta para desarrolladores.

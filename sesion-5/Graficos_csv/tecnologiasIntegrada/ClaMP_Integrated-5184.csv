@@ -1,0 +1,21 @@
+Tecnología,Deseada,Admirada
+Raspberry Pi,48.4,74.3
+Arduino,32.7,59.5
+GNU GCC,22.8,68.3
+CMake,18.5,51.6
+Cargo,18.4,83
+LLVM's Clang,16.3,73.2
+Ninja,6.5,61.1
+MSVC,5.2,50
+PlatformIO,4.6,66.4
+Meson,2.9,65
+Catch2,2.8,53.5
+CMake,1.5,49.3
+qmake,0.8,37.2
+micronaut,1.3,55.7
+doctest,1.3,63
+Boost.Test,1.2,49.2
+ZMK,1.2,70.9
+SCons,0.9,39.7
+build2,0.7,48.2
+CUTE,0.6,54.5

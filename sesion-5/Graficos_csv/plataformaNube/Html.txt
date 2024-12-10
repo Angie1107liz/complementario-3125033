@@ -1,0 +1,6 @@
+https://survey.stackoverflow.co/2024/technology#most-popular-technologies-platform
+
+HIPOTESIS
+La participación de uso de AWS entre los encuestados es la misma en 2024 que en 2023, 
+mientras que Azure y Google Cloud aumentaron su participación. Azure aumentó su uso del
+26 % al 28 % y Google Cloud pasó del 24 % al 25 %.

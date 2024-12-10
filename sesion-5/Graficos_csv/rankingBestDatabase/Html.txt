@@ -1,0 +1,5 @@
+https://survey.stackoverflow.co/2024/technology#most-popular-technologies-database
+
+HIPOTESIS
+PostgreSQL debutó en la encuesta de desarrolladores en 2018, cuando el 33 % de los desarrolladores afirmó utilizarlo, en comparación con la opción más popular ese año: MySQL, 
+utilizada por el 59 % de los desarrolladores.Seis años después, PostgreSQL es utilizado por el 49 % de los desarrolladores y es la base de datos más popular por segundo año consecutivo.

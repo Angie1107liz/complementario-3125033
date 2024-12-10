@@ -1,0 +1,5 @@
+https://survey.stackoverflow.co/2024/technology#admired-and-desired-
+https://survey.stackoverflow.co/2024/technology#admired-and-desired-language-desire-admirelanguage-desire-admire
+
+HIPOTESIS
+JavaScript, Python y SQL son lenguajes de programación muy deseados y admirados, pero Rust sigue siendo el lenguaje de programación más admirado con una puntuación del 83% este año

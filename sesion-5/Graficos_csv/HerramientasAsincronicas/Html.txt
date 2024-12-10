@@ -1,0 +1,5 @@
+https://survey.stackoverflow.co/2024/technology#admired-and-desired-office-stack-async-desire-admire
+
+HIPOTESIS
+¡Markdown gana el concurso de popularidad entre los desarrolladores este año! Los usuarios no solo dicen que lo admiran más este año que el año pasado (84 % frente al 82 %), 
+sino que Markdown también recibió la puntuación más alta de admiración de todas las tecnologías en nuestra encuesta de este año.

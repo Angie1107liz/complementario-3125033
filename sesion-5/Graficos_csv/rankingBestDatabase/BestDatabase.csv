@@ -1,0 +1,18 @@
+BaseDatos,Porcentaje
+PostgreSQL,48.7
+MySQL,40.3
+SQL Server,25.3
+SQLite,24.8
+MongoDB,20
+Redis,17.2
+Elasticsearch,12.5
+Oracle,10.1
+DynamoDB,7.9
+Firebase Realtime Database,5.8
+Cloud Firestore,5.4
+Microsoft Access,4.2
+BigQuery,4.8
+Supabase,4
+H2,3.8
+
+

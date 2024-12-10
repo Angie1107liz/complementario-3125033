@@ -1,0 +1,6 @@
+https://survey.stackoverflow.co/2024/technology#admired-and-desired-tools-tech-desire-admire
+
+
+HIPOTESIS 
+Los usuarios de Docker han elevado esta herramienta a la categoría de más admirada (78%) este año, 
+además de ser la más deseada por segundo año consecutivo.

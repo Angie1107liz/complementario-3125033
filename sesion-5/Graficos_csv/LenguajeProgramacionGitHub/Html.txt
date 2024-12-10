@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/isaacwen/github-programming-languages-data
+
+HIPOTESIS
+La popularidad de los lenguajes de programación fluctúa con el tiempo, influenciada por factores como los avances tecnológicos, 
+las tendencias emergentes y las demandas de la industria.Lo que se define hasta el año 2011 "Ruby" como el lenguaje mas utilizado. 

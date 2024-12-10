@@ -1,0 +1,5 @@
+https://survey.stackoverflow.co/2024/technology#admired-and-desired-ai-search-dev-desire-admire
+
+HIPOTESIS
+La mayoría de los desarrolladores que usan ChatGPT quieren seguir usándolo (75 % lo admira), mientras que la mayoría de los que usan Replit Ghostwrite o
+ Tabnine son los menos propensos a seguir usándolo (36 % lo admira). Si no estás familiarizado con Replit, tenemos una entrevista para que te familiarices.
